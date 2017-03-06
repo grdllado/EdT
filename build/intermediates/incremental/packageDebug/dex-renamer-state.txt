@@ -1,0 +1,7 @@
+#Thu Mar 02 16:50:00 CET 2017
+base.0=/home/users/inf/wiam2/iam47116609/iam47116609/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_67840b215c828f640b4879527a25dd32a0cb25fa
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/users/inf/wiam2/iam47116609/iam47116609/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4a1bb8630af73adaf9af2a8ba1b0afe1b9d40f56/classes.dex
+base.1=/home/users/inf/wiam2/iam47116609/iam47116609/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4a1bb8630af73adaf9af2a8ba1b0afe1b9d40f56
+file.0=/home/users/inf/wiam2/iam47116609/iam47116609/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_67840b215c828f640b4879527a25dd32a0cb25fa/classes.dex
